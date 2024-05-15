@@ -1,5 +1,5 @@
 <template>
-  <a :href="profile.url" target="_blank" class="bg-gray-300 p-1 shadow border-2 border-gray-400 rounded-lg text-gray-700 hover:scale-105 hover:opacity-80 transition-all duration-300 ease-in-out">
+  <a :href="profile.url" :aria-label="`redirect to my ${profile.username} webpage`" target="_blank" class="bg-gray-300 p-1 shadow border-2 border-gray-400 rounded-lg text-gray-700 hover:scale-105 hover:opacity-80 transition-all duration-300 ease-in-out">
     <component :is="getComponent"></component>
   </a>
 </template>

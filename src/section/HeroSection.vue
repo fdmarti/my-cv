@@ -6,7 +6,7 @@
         {{ label }}
       </ParagraphComponent>
       <ParagraphComponent>
-        <a href="https://maps.app.goo.gl/XCVJPWXtzoEztfpo8" target="_blank" class="flex items-center gap-1 !text-sm"> <GlobeIcon /> {{ city }}, {{ region }} </a>
+        <a href="https://maps.app.goo.gl/XCVJPWXtzoEztfpo8" :aria-label="`Redirect to the city located in google maps`" target="_blank" class="flex items-center gap-1 !text-sm"> <GlobeIcon /> {{ city }}, {{ region }} </a>
       </ParagraphComponent>
 
       <ProfileList :profiles="profiles"/>

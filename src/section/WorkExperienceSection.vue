@@ -4,7 +4,7 @@
       <header class="flex justify-between items-center mb-3">
         <div>
           <h3 class="font-semibold text-lg flex flex-row items-center gap-2">
-            <a :href="work.url" target="_blank" class="hover:underline">{{ work.name }}</a>
+            <a :href="work.url" target="_blank" :aria-label="`Redirect to the ${work.name} main web page`"  class="hover:underline">{{ work.name }}</a>
             <small v-if="work.highlights.length > 0" class="bg-gray-200 dark:bg-gray-700 px-1 rounded">{{ work.highlights[0] }}</small>
           </h3>
           <span>{{ work.position }}</span>

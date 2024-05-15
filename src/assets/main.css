@@ -10,6 +10,10 @@
   margin: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   min-height: 100vh;
   font-family:
@@ -21,7 +25,23 @@ body {
     Liberation Mono,
     Courier New,
     monospace;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  transition-duration: 500ms;
+}
+
+@media print {
+  .menu {
+    display: none; /* Oculta el div al imprimir */
+  }
+
+  * {
+    color: #0e0e0e !important;
+  }
+
+  .proyects {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  
 }

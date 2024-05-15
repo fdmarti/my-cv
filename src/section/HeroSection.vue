@@ -1,7 +1,7 @@
 <template>
-  <section class="flex py-5 items-center justify-between">
-    <div class="flex flex-col gap-3">
-      <h1 class="font-semibold text-3xl">{{ name }}</h1>
+  <section class="flex py-5 items-center justify-between md:flex-row flex-col-reverse md:text-left text-center gap-y-5 md:gap-0">
+    <div class="flex flex-col gap-3 max-w-lg md:items-start  items-center">
+      <h1 class="font-semibold text-3xl dark:text-sky-50">{{ name }}</h1>
       <ParagraphComponent>
         {{ label }}
       </ParagraphComponent>

@@ -2,7 +2,7 @@
   <Layout title="Sobre mí">
 
     <ParagraphComponent>
-        {{ summary }}
+    {{ summary }}
     </ParagraphComponent>
 
   </Layout>

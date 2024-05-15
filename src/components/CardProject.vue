@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-slate-50 hover:bg-slate-200 transition-all duration-300 border-[1px] rounded p-5 max-w-xs">
+  <div class="bg-slate-50 dark:bg-slate-800 dark:hover:bg-slate-700 hover:bg-slate-200 transition-all duration-300 border-[1px] rounded p-5 max-w-xs">
     <header class="flex flex-col items-start gap-2 mb-3">
       <h4 class="text-sm font-semibold">
-        <a :href="project.url" target="_blank" class="hover:underline">
+        <a :href="project.url" target="_blank" class="hover:underline dark:text-sky-50">
           {{ project.name }}
         </a>
       </h4>

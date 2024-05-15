@@ -15,3 +15,8 @@ export { default as Nuxtjs } from './NuxtIcon.vue';
 export { default as Tailwind } from './TailwindIcon.vue';
 export { default as TypeScript } from './TypescriptIcon.vue';
 export { default as Vue } from './VueIcon.vue';
+
+export { default as MoonIcon } from './MoonIcon.vue';
+export { default as SunIcon } from './SunIcon.vue';
+export { default as DownloadIcon } from './DownloadIcon.vue';
+

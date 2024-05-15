@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, defineProps, type Component } from 'vue';
+import { computed, type Component } from 'vue';
 import type { ProfileElement } from '@/interface/Profile';
 
 import { Frontendmentor, GitHub, Linkedin, Mail } from '@/components/Icons';

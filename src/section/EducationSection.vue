@@ -1,6 +1,6 @@
 <template>
   <Layout title="Educación">
-    <div v-for="edu in education" :key="edu.institution" class="pb-5 w-full">
+    <div v-for="edu in education" :key="edu.institution" class="pb-5 w-full dark:text-sky-50">
       <header class="flex justify-between items-center mb-3">
         <div>
           <h3 class="font-semibold text-lg flex flex-row items-center gap-2">

@@ -1,0 +1,301 @@
+{
+  "basics": {
+    "name": "Federico Daniel Martinez",
+    "label": "Frontend Developer con más de 5 años de experiencia enfocado en crear productos con especial atención al detalle.",
+    "image": "https://avatars.githubusercontent.com/u/88859383?v=4",
+    "email": "fdmartinez44@gmail.com",
+    "phone": "+54 1136228850",
+    "summary": "Soy un profesional en el desarrollo web con un enfoque especializado en el uso de JavaScript para la creación de aplicaciones web dinámicas y de alta calidad. Con una sólida formación académica y experiencia práctica, estoy comprometido con la excelencia técnica y la mejora continua en el campo del desarrollo de software.",
+    "location": {
+      "address": "",
+      "postalCode": "1074",
+      "city": "Buenos Aires",
+      "countryCode": "ES",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "Mail",
+        "username": "fdmartinez44",
+        "url": "mailto:fdmartinez44@gmail.com"
+      },
+      {
+        "network": "Linkedin",
+        "username": "fededmartinez",
+        "url": "https://www.linkedin.com/in/fededmartinez/"
+      },
+      {
+        "network": "Frontendmentor",
+        "username": "fdmarti",
+        "url": "https://www.frontendmentor.io/profile/fdmarti"
+      },
+      {
+        "network": "GitHub",
+        "username": "fdmarti",
+        "url": "https://github.com/fdmarti"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Viseven",
+      "position": "Frontend Developer",
+      "url": "https://viseven.com/",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "summary": "Trabajo como desarrollador frontend, llevando a cabo varios proyectos desde el conceptoinicial hasta su realización concreta. Realizo tareas como la creación de soluciones deextremo a extremo utilizando Vue js y tambien de asesoramiento a los miembros del equipo,incluyendo revisiones diarias de código.",
+      "highlights": ["Remoto"]
+    },
+    {
+      "name": "UCAR",
+      "position": "Desarrollador Web",
+      "url": "https://www.argentina.gob.ar/agricultura/alimentos-y-bioeconomia/programa-cambio-rural",
+      "startDate": "2019-01-01",
+      "endDate": "2022-04-01",
+      "summary": "Trabaje como desarrollador de software, realizando tareas de mantenimiento y creacion de nuevos modulos en el SIIG (Sistema de Informacion Integrada de la Gestion ) utilizado por +500 personas agilizando procesos de contratación, carga de documentación y seguimiento de programas y lineas de financiamiento. Tecnologías usadas : PHP, MySQL, Javascript, Jquery, HTML, CSS, Bootstrap",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional de La Matanza",
+      "url": "https://www.unlam.edu.ar/",
+      "area": "Técnico en Desarrollo Web",
+      "studyType": "Bachelor",
+      "startDate": "2014-01-01",
+      "endDate": "2018-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Responsive Web Design",
+      "publisher": "freeCodeCamp",
+      "releaseDate": "2021-12-15",
+      "url": "https://www.freecodecamp.org/certification/fcc6ed828fe-b776-425c-8b0e-141cf2035579/responsive-web-design"
+    },
+    {
+      "name": "JavaScript Moderno",
+      "publisher": "Udemy",
+      "releaseDate": "2023-12-19",
+      "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-6a885b6c-377a-45e6-a323-b42c852ef6c0.jpg"
+    },
+    {
+      "name": "TypeScript",
+      "publisher": "Udemy",
+      "releaseDate": "2024-01-15",
+      "url": "https://www.udemy.com/certificate/UC-05ce3fb5-a463-4819-ac28-8a0dfcaa2e0d/"
+    },
+    {
+      "name": "Vue js",
+      "publisher": "Udemy",
+      "releaseDate": "2022-06-14",
+      "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-ea5dc17d-a8f6-48dd-b109-79871b1c7bc1.pdf"
+    },
+    {
+      "name": "NodeJS",
+      "publisher": "Udemy",
+      "releaseDate": "2024-05-14",
+      "url": "https://www.udemy.com/certificate/UC-4449bc4e-bc94-43a6-9db5-e685e5c12d4f/"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+    },
+    {
+      "name": "Nuxtjs",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Mid",
+      "keywords": ["Desarrollo Web", "Frontend", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "ImageFetch",
+      "isActive": false,
+      "description": "Herramienta para descargar imagenes de cualquier sitio web",
+      "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
+      "url": ""
+    },
+    {
+      "name": "DobleV3D - Catalogo",
+      "isActive": false,
+      "description": "Catalogo desarrollado para la venta de figuras 3d",
+      "highlights": ["Astro"],
+      "url": "https://catalogo-doblev3d.vercel.app/#/"
+    },
+    {
+      "name": "SmallUrl",
+      "isActive": true,
+      "description": "Acortador de URL permite crear un enlace acortado que facilita compartirlo",
+      "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
+      "url": "https://a-small-url.vercel.app/"
+    },
+    {
+      "name": "Launch New Year Countdown",
+      "isActive": true,
+      "description": "Sitio con un contador para los dias restantes para el proximo año",
+      "highlights": ["Vanilla", "JavaScript"],
+      "url": "https://launch-countdown-timer-main-bice.vercel.app/"
+    },
+    {
+      "name": "Profile Card with social media",
+      "isActive": true,
+      "description": "Sitio con una card para mostrar las redes sociales",
+      "highlights": ["Social", "Vue", "DarkMode"],
+      "url": "https://social-links-profile-gules.vercel.app/"
+    },
+    {
+      "name": "Random choice piker",
+      "isActive": true,
+      "description": "Sitio para elegir una opcion random",
+      "highlights": ["JavaScript", "Vanilla"],
+      "url": "https://fdmarti.github.io/random-choice-picker/"
+    },
+    {
+      "name": "Tip Calculator",
+      "isActive": true,
+      "description": "Calculadora para propinas",
+      "highlights": ["JavaScript", "Vue"],
+      "url": "https://tip-calculator-app-main-fdmarti.vercel.app/"
+    },
+    {
+      "name": "Job listing filter",
+      "isActive": true,
+      "description": "Listado con filtro con ofertas de trabajo",
+      "highlights": ["JavaScript", "Vue"],
+      "url": "https://static-job-listings-master-three.vercel.app/"
+    },
+    {
+      "name": "Credit Card form Interactive",
+      "isActive": true,
+      "description": "Formulario para cargar una tarjeta de credito de forma interactiva",
+      "highlights": ["JavaScript", "Vue"],
+      "url": "https://interactive-credit-card.vercel.app/"
+    },
+    {
+      "name": "Feriados Argentina",
+      "isActive": true,
+      "description": "Card informativa anunciando el proximo feriado en Argentina con su informacion",
+      "highlights": ["JavaScript", "Vue"],
+      "url": "https://feriados-argentinos.vercel.app/"
+    },
+    {
+      "name": "Random advices",
+      "isActive": true,
+      "description": "Pagina que devuelve consejos random",
+      "highlights": ["JavaScript", "Vue"],
+      "url": "https://adivce-generattor.vercel.app/"
+    },
+    {
+      "name": "Color flipper",
+      "isActive": true,
+      "description": "Pagina que genera un color random",
+      "highlights": ["JavaScript", "Vanilla", "CSS"],
+      "url": "https://colorflipper-three.vercel.app/"
+    }
+  ]
+}

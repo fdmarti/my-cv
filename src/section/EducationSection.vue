@@ -1,6 +1,6 @@
 <template>
   <Layout :title="templ('educationTitle')">
-    <div v-for="(edu,index) in education" :key="templ(`education[${index}].area`)" class="pb-5 w-full dark:text-sky-50">
+    <div v-for="(edu,index) in education" :key="templ(`education[${index}].area`)" class="pb-1 w-full dark:text-sky-50">
       <header class="flex justify-between items-center mb-3">
         <div>
           <h3 class="font-semibold text-lg flex flex-row items-center gap-2">

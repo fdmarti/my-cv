@@ -1,6 +1,6 @@
 <template>
   <Layout :title="templ('workTitle')">
-    <div v-for="(work, index) in works" :key="work.name" class="pb-5 dark:text-sky-50">
+    <div v-for="(work, index) in works" :key="work.name" class="pb-3 dark:text-sky-50">
       <header class="flex justify-between items-center mb-3">
         <div>
           <h3 class="font-semibold text-lg flex flex-row items-center gap-2">

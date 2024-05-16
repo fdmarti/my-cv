@@ -1,10 +1,16 @@
 {
+  "educationTitle": "Educación",
+  "workTitle": "Experiencia laboral",
+  "languageTitle": "Idiomas",
+  "skillsTitle": "Habilidades",
+  "projectsTitle": "Proyectos",
   "basics": {
     "name": "Federico Daniel Martinez",
     "label": "Frontend Developer con más de 5 años de experiencia enfocado en crear productos con especial atención al detalle.",
     "image": "https://avatars.githubusercontent.com/u/88859383?v=4",
     "email": "fdmartinez44@gmail.com",
     "phone": "+54 1136228850",
+    "summaryTitle": "Sobre mí",
     "summary": "Soy un profesional en el desarrollo web con un enfoque especializado en el uso de JavaScript para la creación de aplicaciones web dinámicas y de alta calidad. Con una sólida formación académica y experiencia práctica, estoy comprometido con la excelencia técnica y la mejora continua en el campo del desarrollo de software.",
     "location": {
       "address": "",
@@ -187,12 +193,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Ingles",
+      "fluency": "B2 - Avanzado"
     }
   ],
   "interests": [
@@ -211,86 +217,88 @@
     {
       "name": "ImageFetch",
       "isActive": false,
-      "description": "Herramienta para descargar imagenes de cualquier sitio web",
+      "description": "Herramienta para descargar imagenes de cualquier sitio web.",
       "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
       "url": ""
     },
     {
-      "name": "DobleV3D - Catalogo",
+      "name": "DobleV3D - Catálogo",
       "isActive": false,
-      "description": "Catalogo desarrollado para la venta de figuras 3d",
+      "description": "Catálogo desarrollado para la venta de figuras 3d.",
       "highlights": ["Astro"],
       "url": "https://catalogo-doblev3d.vercel.app/#/"
     },
     {
       "name": "SmallUrl",
       "isActive": true,
-      "description": "Acortador de URL permite crear un enlace acortado que facilita compartirlo",
+      "description": "Acortador de URL permite crear un enlace acortado que facilita compartirlo.",
       "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
       "url": "https://a-small-url.vercel.app/"
     },
     {
       "name": "Launch New Year Countdown",
       "isActive": true,
-      "description": "Sitio con un contador para los dias restantes para el proximo año",
+      "description": "Sitio con un contador para los dias restantes para el proximo año.",
       "highlights": ["Vanilla", "JavaScript"],
       "url": "https://launch-countdown-timer-main-bice.vercel.app/"
     },
     {
       "name": "Profile Card with social media",
       "isActive": true,
-      "description": "Sitio con una card para mostrar las redes sociales",
+      "description": "Sitio con una card para mostrar las redes sociales.",
       "highlights": ["Social", "Vue", "DarkMode"],
       "url": "https://social-links-profile-gules.vercel.app/"
     },
     {
       "name": "Random choice piker",
       "isActive": true,
-      "description": "Sitio para elegir una opcion random",
+      "description": "Sitio para elegir una opción random.",
       "highlights": ["JavaScript", "Vanilla"],
       "url": "https://fdmarti.github.io/random-choice-picker/"
     },
     {
       "name": "Tip Calculator",
       "isActive": true,
-      "description": "Calculadora para propinas",
+      "description": "Calculadora de propina",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://tip-calculator-app-main-fdmarti.vercel.app/"
     },
     {
       "name": "Job listing filter",
       "isActive": true,
-      "description": "Listado con filtro con ofertas de trabajo",
+      "description": "Listado con filtro con ofertas de trabajo.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://static-job-listings-master-three.vercel.app/"
     },
     {
       "name": "Credit Card form Interactive",
       "isActive": true,
-      "description": "Formulario para cargar una tarjeta de credito de forma interactiva",
+      "description": "Formulario para cargar una tarjeta de crédito de forma interactiva.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://interactive-credit-card.vercel.app/"
     },
     {
       "name": "Feriados Argentina",
       "isActive": true,
-      "description": "Card informativa anunciando el proximo feriado en Argentina con su informacion",
+      "description": "Card informativa anunciando el proximo feriado en Argentina con su información.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://feriados-argentinos.vercel.app/"
     },
     {
       "name": "Random advices",
       "isActive": true,
-      "description": "Pagina que devuelve consejos random",
+      "description": "Página que devuelve consejos random.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://adivce-generattor.vercel.app/"
     },
     {
       "name": "Color flipper",
       "isActive": true,
-      "description": "Pagina que genera un color random",
+      "description": "Página que genera un color random.",
       "highlights": ["JavaScript", "Vanilla", "CSS"],
       "url": "https://colorflipper-three.vercel.app/"
     }
-  ]
+  ],
+  "current": "Actual",
+  "developing": "En desarrollo"
 }

@@ -4,6 +4,7 @@
     <AboutSection />
     <WorkExperienceSection />
     <EducationSection />
+    <LanguageSection />
     <SkillsSection />
     <ProjectsSection />
 
@@ -17,6 +18,7 @@ import WorkExperienceSection from '@/section/WorkExperienceSection.vue';
 import EducationSection from '@/section/EducationSection.vue';
 import SkillsSection from '@/section/SkillsSection.vue';
 import ProjectsSection from '@/section/ProjectsSection.vue';
+import LanguageSection from '@/section/LanguageSection.vue';
 
 import { Menu } from './components/Menu';
 </script>

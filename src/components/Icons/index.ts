@@ -19,4 +19,3 @@ export { default as Vue } from './VueIcon.vue';
 export { default as MoonIcon } from './MoonIcon.vue';
 export { default as SunIcon } from './SunIcon.vue';
 export { default as DownloadIcon } from './DownloadIcon.vue';
-

@@ -1,19 +1,18 @@
 <template>
-  <Layout title="Sobre mí">
+  <Layout :title="templ('basics.summaryTitle')">
 
     <ParagraphComponent>
-    {{ summary }}
+    {{ templ('basics.summary')  }}
     </ParagraphComponent>
 
   </Layout>
 </template>
 
 <script setup lang="ts">
+import { useI18n } from 'vue-i18n';
 import { Layout } from '@/layout';
 import { ParagraphComponent } from '@/components/Text';
 
-import json from '../../cv.json';
-const { basics } = json;
-const { summary } = basics;
+const { t: templ } = useI18n();
 
 </script>

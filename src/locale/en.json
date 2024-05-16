@@ -1,11 +1,17 @@
 {
+  "educationTitle": "Education",
+  "workTitle": "Work experience",
+  "languageTitle": "Idioms",
+  "skillsTitle": "Skills",
+  "projectsTitle": "Projects",
   "basics": {
     "name": "Federico Daniel Martinez",
-    "label": "Frontend Developer con más de 5 años de experiencia enfocado en crear productos con especial atención al detalle.",
+    "label": "Frontend Developer with more than 5 years of experience focused on creating products with special attention to detail.",
     "image": "https://avatars.githubusercontent.com/u/88859383?v=4",
     "email": "fdmartinez44@gmail.com",
     "phone": "+54 1136228850",
-    "summary": "Soy un profesional en el desarrollo web con un enfoque especializado en el uso de JavaScript para la creación de aplicaciones web dinámicas y de alta calidad. Con una sólida formación académica y experiencia práctica, estoy comprometido con la excelencia técnica y la mejora continua en el campo del desarrollo de software.",
+    "summaryTitle": "About me",
+    "summary": "I am a web development professional with a specialized focus on using JavaScript to create high-quality, dynamic web applications. With a strong academic background and practical experience, I am committed to technical excellence and continuous improvement in the field of software development.",
     "location": {
       "address": "",
       "postalCode": "1074",
@@ -43,16 +49,16 @@
       "url": "https://viseven.com/",
       "startDate": "2022-04-01",
       "endDate": null,
-      "summary": "Trabajo como desarrollador frontend, llevando a cabo varios proyectos desde el conceptoinicial hasta su realización concreta. Realizo tareas como la creación de soluciones deextremo a extremo utilizando Vue js y tambien de asesoramiento a los miembros del equipo,incluyendo revisiones diarias de código.",
-      "highlights": ["Remoto"]
+      "summary": "I work as a frontend developer, carrying out several projects from the initial concept to its concrete realization. I perform tasks such as creating end-to-end solutions using Vue js and also providing advice to team members, including daily code reviews.",
+      "highlights": ["Remote"]
     },
     {
       "name": "UCAR",
-      "position": "Desarrollador Web",
+      "position": "Web developer",
       "url": "https://www.argentina.gob.ar/agricultura/alimentos-y-bioeconomia/programa-cambio-rural",
       "startDate": "2019-01-01",
       "endDate": "2022-04-01",
-      "summary": "Trabaje como desarrollador de software, realizando tareas de mantenimiento y creacion de nuevos modulos en el SIIG (Sistema de Informacion Integrada de la Gestion ) utilizado por +500 personas agilizando procesos de contratación, carga de documentación y seguimiento de programas y lineas de financiamiento. Tecnologías usadas : PHP, MySQL, Javascript, Jquery, HTML, CSS, Bootstrap",
+      "summary": "I worked as a software developer, performing maintenance tasks and creating new modules in the SIIG (Integrated Management Information System) used by +500 people, streamlining contracting processes, uploading documentation and monitoring programs and financing lines. Technologies used: PHP, MySQL, Javascript, Jquery, HTML, CSS, Bootstrap.",
       "highlights": []
     }
   ],
@@ -69,9 +75,9 @@
   ],
   "education": [
     {
-      "institution": "Universidad Nacional de La Matanza",
+      "institution": "National University of La Matanza",
       "url": "https://www.unlam.edu.ar/",
-      "area": "Técnico en Desarrollo Web",
+      "area": "Web Development Technician",
       "studyType": "Bachelor",
       "startDate": "2014-01-01",
       "endDate": "2018-01-01",
@@ -95,7 +101,7 @@
       "url": "https://www.freecodecamp.org/certification/fcc6ed828fe-b776-425c-8b0e-141cf2035579/responsive-web-design"
     },
     {
-      "name": "JavaScript Moderno",
+      "name": "Modern JavaScript",
       "publisher": "Udemy",
       "releaseDate": "2023-12-19",
       "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-6a885b6c-377a-45e6-a323-b42c852ef6c0.jpg"
@@ -192,7 +198,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "B2 - Advanced"
     }
   ],
   "interests": [
@@ -211,86 +217,88 @@
     {
       "name": "ImageFetch",
       "isActive": false,
-      "description": "Herramienta para descargar imagenes de cualquier sitio web",
+      "description": "Tool to download images from any website.",
       "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
       "url": ""
     },
     {
-      "name": "DobleV3D - Catalogo",
+      "name": "DobleV3D - Catalogue",
       "isActive": false,
-      "description": "Catalogo desarrollado para la venta de figuras 3d",
+      "description": "Catalog developed for the sale of 3d figures.",
       "highlights": ["Astro"],
       "url": "https://catalogo-doblev3d.vercel.app/#/"
     },
     {
       "name": "SmallUrl",
       "isActive": true,
-      "description": "Acortador de URL permite crear un enlace acortado que facilita compartirlo",
+      "description": "URL Shortener allows you to create a shortened link that makes it easy to share.",
       "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
       "url": "https://a-small-url.vercel.app/"
     },
     {
       "name": "Launch New Year Countdown",
       "isActive": true,
-      "description": "Sitio con un contador para los dias restantes para el proximo año",
+      "description": "Site with a counter for the days remaining for the next year.",
       "highlights": ["Vanilla", "JavaScript"],
       "url": "https://launch-countdown-timer-main-bice.vercel.app/"
     },
     {
       "name": "Profile Card with social media",
       "isActive": true,
-      "description": "Sitio con una card para mostrar las redes sociales",
+      "description": "Site with a card to show social networks.",
       "highlights": ["Social", "Vue", "DarkMode"],
       "url": "https://social-links-profile-gules.vercel.app/"
     },
     {
       "name": "Random choice piker",
       "isActive": true,
-      "description": "Sitio para elegir una opcion random",
+      "description": "Site to choose a random option.",
       "highlights": ["JavaScript", "Vanilla"],
       "url": "https://fdmarti.github.io/random-choice-picker/"
     },
     {
       "name": "Tip Calculator",
       "isActive": true,
-      "description": "Calculadora para propinas",
+      "description": "Tip Calculator.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://tip-calculator-app-main-fdmarti.vercel.app/"
     },
     {
       "name": "Job listing filter",
       "isActive": true,
-      "description": "Listado con filtro con ofertas de trabajo",
+      "description": "List with filter with job offers.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://static-job-listings-master-three.vercel.app/"
     },
     {
       "name": "Credit Card form Interactive",
       "isActive": true,
-      "description": "Formulario para cargar una tarjeta de credito de forma interactiva",
+      "description": "Form to load a credit card interactively.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://interactive-credit-card.vercel.app/"
     },
     {
-      "name": "Feriados Argentina",
+      "name": "Argentina holidays",
       "isActive": true,
-      "description": "Card informativa anunciando el proximo feriado en Argentina con su informacion",
+      "description": "Information card announcing the next holiday in Argentina with your information.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://feriados-argentinos.vercel.app/"
     },
     {
       "name": "Random advices",
       "isActive": true,
-      "description": "Pagina que devuelve consejos random",
+      "description": "Page that returns random tips.",
       "highlights": ["JavaScript", "Vue"],
       "url": "https://adivce-generattor.vercel.app/"
     },
     {
       "name": "Color flipper",
       "isActive": true,
-      "description": "Pagina que genera un color random",
+      "description": "Page that generates a random color",
       "highlights": ["JavaScript", "Vanilla", "CSS"],
       "url": "https://colorflipper-three.vercel.app/"
     }
-  ]
+  ],
+  "current": "Current",
+  "developing": "Developing"
 }

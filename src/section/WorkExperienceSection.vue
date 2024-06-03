@@ -16,8 +16,8 @@
         </div>
       </header>
 
-      <ParagraphComponent>
-        {{ templ(`work[${index}].summary`) }}
+      <ParagraphComponent >
+          <div v-html="templ(`work[${index}].summary`) "></div>
       </ParagraphComponent>
     </div>
   </Layout>

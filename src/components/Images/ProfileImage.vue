@@ -1,5 +1,5 @@
 <template>
-  <div class="relative flex shrink-0 overflow-hidden shadow rounded-xl size-40">
+  <div class="relative flex shrink-0 overflow-hidden shadow rounded-xl size-40 profile-image">
     <img class="aspect-square h-full w-full" :src="image" :alt="`${name}`" />
   </div>
 </template>

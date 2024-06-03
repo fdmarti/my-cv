@@ -32,7 +32,8 @@ body {
 }
 
 @media print {
-  .menu {
+  .menu,
+  .profile-image {
     display: none; /* Oculta el div al imprimir */
   }
 
@@ -43,5 +44,4 @@ body {
   .proyects {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  
 }

@@ -215,13 +215,6 @@
   ],
   "projects": [
     {
-      "name": "Fixture Copa America 2024",
-      "isActive": false,
-      "description": "Fixture of the Copa America.",
-      "highlights": ["Vue", "Tailwind", "TypeScript","Daisyui"],
-      "url": "https://copa-america-2024-fixture.vercel.app/"
-    },
-    {
       "name": "ImageFetch",
       "isActive": false,
       "description": "Tool to download images from any website.",
@@ -234,6 +227,13 @@
       "description": "Catalog developed for the sale of 3d figures.",
       "highlights": ["Astro"],
       "url": "https://catalogo-doblev3d.vercel.app/#/"
+    },
+    {
+      "name": "Fixture Copa America 2024",
+      "isActive": true,
+      "description": "Fixture of the Copa America.",
+      "highlights": ["Vue", "Tailwind", "TypeScript","Daisyui"],
+      "url": "https://copa-america-2024-fixture.vercel.app/"
     },
     {
       "name": "SmallUrl",

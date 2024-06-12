@@ -215,6 +215,13 @@
   ],
   "projects": [
     {
+      "name": "Fixture Copa America 2024",
+      "isActive": false,
+      "description": "Fixture of the Copa America.",
+      "highlights": ["Vue", "Tailwind", "TypeScript","Daisyui"],
+      "url": "https://copa-america-2024-fixture.vercel.app/"
+    },
+    {
       "name": "ImageFetch",
       "isActive": false,
       "description": "Tool to download images from any website.",

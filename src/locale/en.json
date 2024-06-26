@@ -222,11 +222,11 @@
       "url": ""
     },
     {
-      "name": "DobleV3D - Catalogue",
-      "isActive": false,
-      "description": "Catalog developed for the sale of 3d figures.",
-      "highlights": ["Astro"],
-      "url": "https://catalogo-doblev3d.vercel.app/#/"
+      "name": "Number guessing game",
+      "isActive": true,
+      "description": "Game to guess a random number",
+      "highlights": ["Vue", "CSS"],
+      "url": "https://guess-the-number-pi-lake.vercel.app/"
     },
     {
       "name": "Fixture Copa America 2024",

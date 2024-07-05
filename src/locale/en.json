@@ -229,9 +229,9 @@
       "url": "https://guess-the-number-pi-lake.vercel.app/"
     },
     {
-      "name": "Fixture Copa America 2024",
+      "name": "Fixture America Cup 2024",
       "isActive": true,
-      "description": "Fixture of the Copa America.",
+      "description": "Fixture of the America Cup .",
       "highlights": ["Vue", "Tailwind", "TypeScript","Daisyui"],
       "url": "https://copa-america-2024-fixture.vercel.app/"
     },

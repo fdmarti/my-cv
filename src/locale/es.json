@@ -222,6 +222,13 @@
       "url": ""
     },
     {
+      "name": "Compare Text",
+      "isActive": true,
+      "description": "Web page para comparar 2 textos diferentes.",
+      "highlights": ["Vue", "Tailwind", "Vite"],
+      "url": "https://compare-text-fdm.vercel.app/"
+    },
+    {
       "name": "Adivina el número",
       "isActive": true,
       "description": "Juego para adivinar un número al azar",

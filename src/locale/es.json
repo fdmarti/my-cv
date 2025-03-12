@@ -44,12 +44,21 @@
   },
   "work": [
     {
+      "name": "Darwoft",
+      "position": "Nuxt Developer",
+      "url": "https://www.darwoft.com/",
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "summary": "Trabajando en el proyecto Markat",
+      "highlights": ["Remote"]
+    },
+    {
       "name": "Viseven",
       "position": "Frontend Developer",
       "url": "https://viseven.com/",
       "startDate": "2022-04-01",
-      "endDate": null,
-      "summary": "En mi trabajo actual, me enfoco en varios aspectos del desarrollo web utilizando HTML, CSS y Vue.js para crear maquetas responsivas. Creo componentes reutilizables para mantener la consistencia y modularidad del código. Además, traduzco diseños de UI/UX en componentes de Vue.js, utilizando Vue I18n para la internacionalización.<br><br>Para gestionar el estado global de la aplicación, uso tanto Vuex como Pinia, lo que permite un manejo eficiente de los datos compartidos entre diferentes componentes. Para la navegación dentro de la aplicación, configuro rutas usando Vue Router, incluyendo rutas anidadas y protegidas, asegurando una experiencia de usuario fluida y segura.<br><br>Además, implemento optimizaciones de SEO para mejorar la visibilidad en los motores de búsqueda y aseguro la compatibilidad con diferentes navegadores, proporcionando así una experiencia consistente y accesible para todos los usuarios.",
+      "endDate": "2024-12-01",
+      "summary": "EMe enfoqué en varios aspectos del desarrollo web utilizando HTML, CSS y Vue.js para crear maquetas responsivas. Creé componentes reutilizables para mantener la consistencia y modularidad del código. Además, traduje diseños de UI/UX a componentes de Vue.js, utilizando Vue I18n para la internacionalización.<br><br>Para gestionar el estado global de la aplicación, trabajamos tanto con Vuex como con Pinia, lo que permitió un manejo eficiente de los datos compartidos entre diferentes componentes. Para la navegación dentro de la aplicación, también utilizamos rutas con Vue Router, incluyendo rutas anidadas y protegidas, garantizando una experiencia de usuario fluida y segura. <br><br> Además, implementamos optimizaciones SEO para mejorar la visibilidad en los motores de búsqueda y asegurar la compatibilidad con diferentes navegadores, proporcionando así una experiencia consistente y accesible para todos los usuarios.",
       "highlights": ["Remoto"]
     },
     {

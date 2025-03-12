@@ -38,12 +38,21 @@
   },
   "work": [
     {
+      "name": "Darwoft",
+      "position": "Nuxt Developer",
+      "url": "https://www.darwoft.com/",
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "summary": "Trabajando en el proyecto Markat",
+      "highlights": ["Remote"]
+    },
+    {
       "name": "Viseven",
       "position": "Frontend Developer",
       "url": "https://viseven.com/",
       "startDate": "2022-04-01",
-      "endDate": null,
-      "summary": "Trabajo como desarrollador frontend, llevando a cabo varios proyectos desde el conceptoinicial hasta su realización concreta. Realizo tareas como la creación de soluciones deextremo a extremo utilizando Vue js y tambien de asesoramiento a los miembros del equipo,incluyendo revisiones diarias de código.",
+      "endDate": "2024-12-01",
+      "summary": "EMe enfoqué en varios aspectos del desarrollo web utilizando HTML, CSS y Vue.js para crear maquetas responsivas. Creé componentes reutilizables para mantener la consistencia y modularidad del código. Además, traduje diseños de UI/UX a componentes de Vue.js, utilizando Vue I18n para la internacionalización.<br><br>Para gestionar el estado global de la aplicación, trabajamos tanto con Vuex como con Pinia, lo que permitió un manejo eficiente de los datos compartidos entre diferentes componentes. Para la navegación dentro de la aplicación, también utilizamos rutas con Vue Router, incluyendo rutas anidadas y protegidas, garantizando una experiencia de usuario fluida y segura. <br><br> Además, implementamos optimizaciones SEO para mejorar la visibilidad en los motores de búsqueda y asegurar la compatibilidad con diferentes navegadores, proporcionando así una experiencia consistente y accesible para todos los usuarios.",
       "highlights": ["Remoto"]
     },
     {

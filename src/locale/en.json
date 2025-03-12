@@ -44,12 +44,21 @@
   },
   "work": [
     {
+      "name": "Darwoft",
+      "position": "Nuxt Developer",
+      "url": "https://www.darwoft.com/",
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "summary": "Working on the Markat Proyect",
+      "highlights": ["Remote"]
+    },
+    {
       "name": "Viseven",
       "position": "Frontend Developer",
       "url": "https://viseven.com/",
       "startDate": "2022-04-01",
-      "endDate": null,
-      "summary": "In my current work, I focus on various aspects of web development using HTML, CSS, and Vue.js to create responsive mockups. I create reusable components to maintain code consistency and modularity. Additionally, I translate UI/UX designs into Vue.js components, utilizing Vue I18n for internationalization.<br><br>To manage the global state of the application, I use both Vuex and Pinia, allowing for efficient handling of data shared among different components. For in-app navigation, I configure routes using Vue Router, including nested and protected routes, ensuring a smooth and secure user experience. <br><br> Furthermore, I implement SEO optimizations to improve search engine visibility and ensure compatibility with different browsers, thus providing a consistent and accessible experience for all users.",
+      "endDate": "2024-12-01",
+      "summary": "I focused on various aspects of web development using HTML, CSS, and Vue.js to create responsive mockups. I created reusable components to maintain code consistency and modularity. Additionally, I translated UI/UX designs into Vue.js components, utilizing Vue I18n for internationalization.<br><br>To manage the global state of the application, we worked both Vuex and Pinia, allowing for efficient handling of data shared among different components. For in-app navigation, we also used routes using Vue Router, including nested and protected routes, ensuring a smooth and secure user experience. <br><br> Furthermore, we implemented SEO optimizations to improve search engine visibility and ensure compatibility with different browsers, thus providing a consistent and accessible experience for all users.",
       "highlights": ["Remote"]
     },
     {

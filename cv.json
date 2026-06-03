@@ -38,13 +38,26 @@
   },
   "work": [
     {
+      "name": "Insite AI",
+      "position": "Fullstack Developer",
+      "url": "https://www.insite.ai/",
+      "startDate": "2025-09-01",
+      "endDate": null,
+      "summary": "Frontend Development with Vue and Pinia: Translated UI/UX designs into responsive and reusable components using HTML, CSS, and Vue.js, implementing efficient global state management with Pinia and seamless navigation via Vue Router. <br><br> Backend Development with NestJS and Node.js: Designed and developed scalable, robust, and efficient RESTful APIs and server-side logic using Node.js and the Nest framework. <br><br> Quality, SEO, and Optimization: Ensured high code quality and stability, and implemented SEO optimizations and cross-browser compatibility to deliver a seamless and accessible user experience.",
+      "highlights": [
+        "Remote"
+      ]
+    },
+    {
       "name": "Darwoft",
       "position": "Nuxt Developer",
       "url": "https://www.darwoft.com/",
       "startDate": "2024-12-01",
-      "endDate": null,
-      "summary": "Trabajando en el proyecto Markat",
-      "highlights": ["Remote"]
+      "endDate": "2025-09-01",
+      "summary": "Desarrollo Frontend con Nuxt y TypeScript: Traduje diseños de UI/UX en componentes responsivos y reutilizables utilizando HTML, Tailwind CSS, Vue.js y Nuxt, asegurando un código robusto y tipado con TypeScript. <br><br> Gestión de Estado y Rutas: Implementé arquitecturas de estado global eficientes con Pinia, y configuré la navegación de la app mediante Vue Router (rutas anidadas y protegidas). <br><br> Búsqueda e Internacionalización: Integré Algolia para un motor de búsqueda avanzado y rápido, y utilicé Vue I18n para dar soporte multiidioma a la aplicación. <br><br> Calidad, SEO y Optimización: Aseguré la estabilidad del código mediante pruebas unitarias con Vitest, e implementé optimizaciones SEO y compatibilidad cross-browser para una experiencia accesible.",
+      "highlights": [
+        "Remote"
+      ]
     },
     {
       "name": "Viseven",
@@ -53,7 +66,9 @@
       "startDate": "2022-04-01",
       "endDate": "2024-12-01",
       "summary": "EMe enfoqué en varios aspectos del desarrollo web utilizando HTML, CSS y Vue.js para crear maquetas responsivas. Creé componentes reutilizables para mantener la consistencia y modularidad del código. Además, traduje diseños de UI/UX a componentes de Vue.js, utilizando Vue I18n para la internacionalización.<br><br>Para gestionar el estado global de la aplicación, trabajamos tanto con Vuex como con Pinia, lo que permitió un manejo eficiente de los datos compartidos entre diferentes componentes. Para la navegación dentro de la aplicación, también utilizamos rutas con Vue Router, incluyendo rutas anidadas y protegidas, garantizando una experiencia de usuario fluida y segura. <br><br> Además, implementamos optimizaciones SEO para mejorar la visibilidad en los motores de búsqueda y asegurar la compatibilidad con diferentes navegadores, proporcionando así una experiencia consistente y accesible para todos los usuarios.",
-      "highlights": ["Remoto"]
+      "highlights": [
+        "Remoto"
+      ]
     },
     {
       "name": "UCAR",
@@ -73,7 +88,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -85,7 +102,9 @@
       "startDate": "2014-01-01",
       "endDate": "2018-01-01",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     }
   ],
   "awards": [
@@ -141,57 +160,109 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
-      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
     },
     {
       "name": "Nuxtjs",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
     },
     {
       "name": "Vue",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -207,7 +278,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -221,98 +295,147 @@
       "name": "ImageFetch",
       "isActive": false,
       "description": "Herramienta para descargar imagenes de cualquier sitio web",
-      "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
+      "highlights": [
+        "Nuxt Js",
+        "Tailwind",
+        "TypeScript"
+      ],
       "url": ""
     },
     {
       "name": "Compare Text",
       "isActive": true,
       "description": "Web page to help you to compare two differents texts",
-      "highlights": ["Vue", "Tailwind", "Vite"],
+      "highlights": [
+        "Vue",
+        "Tailwind",
+        "Vite"
+      ],
       "url": "https://compare-text-fdm.vercel.app/"
     },
     {
       "name": "Guess the number",
       "isActive": true,
       "description": "Juego para adivinar un número",
-      "highlights": ["Vue", "CSS"],
+      "highlights": [
+        "Vue",
+        "CSS"
+      ],
       "url": "https://guess-the-number-pi-lake.vercel.app/"
     },
     {
       "name": "Fixture de la Copa America 2024",
       "isActive": true,
       "description": "Fixture de la the Copa America.",
-      "highlights": ["Vue", "Tailwind", "TypeScript","Daisyui"],
+      "highlights": [
+        "Vue",
+        "Tailwind",
+        "TypeScript",
+        "Daisyui"
+      ],
       "url": "https://copa-america-2024-fixture.vercel.app/"
     },
     {
       "name": "SmallUrl",
       "isActive": true,
       "description": "Acortador de URL permite crear un enlace acortado que facilita compartirlo",
-      "highlights": ["Nuxt Js", "Tailwind", "TypeScript"],
+      "highlights": [
+        "Nuxt Js",
+        "Tailwind",
+        "TypeScript"
+      ],
       "url": "https://a-small-url.vercel.app/"
     },
     {
       "name": "Launch New Year Countdown",
       "isActive": true,
       "description": "Sitio con un contador para los dias restantes para el proximo año",
-      "highlights": ["Vanilla", "JavaScript"],
+      "highlights": [
+        "Vanilla",
+        "JavaScript"
+      ],
       "url": "https://launch-countdown-timer-main-bice.vercel.app/"
     },
     {
       "name": "Profile Card with social media",
       "isActive": true,
       "description": "Sitio con una card para mostrar las redes sociales",
-      "highlights": ["Social", "Vue", "DarkMode"],
+      "highlights": [
+        "Social",
+        "Vue",
+        "DarkMode"
+      ],
       "url": "https://social-links-profile-gules.vercel.app/"
     },
     {
       "name": "Random choice piker",
       "isActive": true,
       "description": "Sitio para elegir una opcion random",
-      "highlights": ["JavaScript", "Vanilla"],
+      "highlights": [
+        "JavaScript",
+        "Vanilla"
+      ],
       "url": "https://fdmarti.github.io/random-choice-picker/"
     },
     {
       "name": "Tip Calculator",
       "isActive": true,
       "description": "Calculadora para propinas",
-      "highlights": ["JavaScript", "Vue"],
+      "highlights": [
+        "JavaScript",
+        "Vue"
+      ],
       "url": "https://tip-calculator-app-main-fdmarti.vercel.app/"
     },
     {
       "name": "Job listing filter",
       "isActive": true,
       "description": "Listado con filtro con ofertas de trabajo",
-      "highlights": ["JavaScript", "Vue"],
+      "highlights": [
+        "JavaScript",
+        "Vue"
+      ],
       "url": "https://static-job-listings-master-three.vercel.app/"
     },
     {
       "name": "Credit Card form Interactive",
       "isActive": true,
       "description": "Formulario para cargar una tarjeta de credito de forma interactiva",
-      "highlights": ["JavaScript", "Vue"],
+      "highlights": [
+        "JavaScript",
+        "Vue"
+      ],
       "url": "https://interactive-credit-card.vercel.app/"
     },
     {
       "name": "Feriados Argentina",
       "isActive": true,
       "description": "Card informativa anunciando el proximo feriado en Argentina con su informacion",
-      "highlights": ["JavaScript", "Vue"],
+      "highlights": [
+        "JavaScript",
+        "Vue"
+      ],
       "url": "https://feriados-argentinos.vercel.app/"
     },
     {
       "name": "Random advices",
       "isActive": true,
       "description": "Pagina que devuelve consejos random",
-      "highlights": ["JavaScript", "Vue"],
+      "highlights": [
+        "JavaScript",
+        "Vue"
+      ],
       "url": "https://adivce-generattor.vercel.app/"
     },
     {
       "name": "Color flipper",
       "isActive": true,
       "description": "Pagina que genera un color random",
-      "highlights": ["JavaScript", "Vanilla", "CSS"],
+      "highlights": [
+        "JavaScript",
+        "Vanilla",
+        "CSS"
+      ],
       "url": "https://colorflipper-three.vercel.app/"
     }
   ]

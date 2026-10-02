@@ -357,15 +357,15 @@
       "url": "https://launch-countdown-timer-main-bice.vercel.app/"
     },
     {
-      "name": "Profile Card with social media",
+      "name": "IP Address Tracker",
       "isActive": true,
-      "description": "Sitio con una card para mostrar las redes sociales",
+      "description": "Sitio para rastrear ubicación por IP",
       "highlights": [
-        "Social",
         "Vue",
-        "DarkMode"
+        "API",
+        "Tailwind"
       ],
-      "url": "https://social-links-profile-gules.vercel.app/"
+      "url": "https://ip-address-tracker-mu-green.vercel.app/"
     },
     {
       "name": "Random choice piker",

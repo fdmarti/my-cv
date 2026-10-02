@@ -1,5 +1,6 @@
 {
   "educationTitle": "Education",
+  "certificatesTitle": "Certificates",
   "workTitle": "Work experience",
   "languageTitle": "Idioms",
   "skillsTitle": "Skills",
@@ -363,15 +364,15 @@
       "url": "https://launch-countdown-timer-main-bice.vercel.app/"
     },
     {
-      "name": "Profile Card with social media",
+      "name": "IP Address Tracker",
       "isActive": true,
-      "description": "Site with a card to show social networks.",
+      "description": "Site to track location by IP address.",
       "highlights": [
-        "Social",
         "Vue",
-        "DarkMode"
+        "API",
+        "Tailwind"
       ],
-      "url": "https://social-links-profile-gules.vercel.app/"
+      "url": "https://ip-address-tracker-mu-green.vercel.app/"
     },
     {
       "name": "Random choice piker",

@@ -4,6 +4,7 @@
     <AboutSection />
     <WorkExperienceSection />
     <EducationSection />
+    <CertificatesSection />
     <LanguageSection />
     <SkillsSection />
     <ProjectsSection />
@@ -16,6 +17,7 @@ import HeroSection from '@/section/HeroSection.vue';
 import AboutSection from '@/section/AboutSection.vue';
 import WorkExperienceSection from '@/section/WorkExperienceSection.vue';
 import EducationSection from '@/section/EducationSection.vue';
+import CertificatesSection from '@/section/CertificatesSection.vue';
 import SkillsSection from '@/section/SkillsSection.vue';
 import ProjectsSection from '@/section/ProjectsSection.vue';
 import LanguageSection from '@/section/LanguageSection.vue';

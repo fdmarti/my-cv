@@ -1,23 +1,29 @@
 <template>
   <Layout :title="templ('workTitle')">
-    <div v-for="(work, index) in works" :key="work.name" class="pb-3 dark:text-sky-50">
-      <header class="flex justify-between items-center mb-3">
+    <div v-for="(work, index) in works" :key="work.name" class="pb-6 last:pb-0">
+      <header class="mb-3 flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
         <div>
-          <h3 class="font-semibold text-lg flex flex-row items-center gap-2">
-            <a :href="work.url" target="_blank" :aria-label="`Redirect to the ${work.name} main web page`" class="hover:underline">{{ work.name }}</a>
-            <small v-if="work.highlights.length > 0" class="bg-gray-200 dark:bg-gray-700 px-1 rounded">{{ templ(`work[${index}].highlights[0]`) }}</small>
+          <h3 class="flex flex-row flex-wrap items-center gap-2 text-base font-medium text-zinc-900 dark:text-zinc-50">
+            <a
+              :href="work.url"
+              target="_blank"
+              :aria-label="`Redirect to the ${work.name} main web page`"
+              class="link-subtle decoration-transparent hover:decoration-current"
+            >{{ work.name }}</a>
+            <small
+              v-if="work.highlights.length > 0"
+              class="text-mono-accent rounded-lg border border-border-subtle bg-zinc-100 px-2 py-0.5 text-zinc-700 dark:border-zinc-600 dark:bg-zinc-700/50 dark:text-zinc-300"
+            >{{ templ(`work[${index}].highlights[0]`) }}</small>
           </h3>
-          <span>
-            {{ templ(`work[${index}].position`) }}
-          </span>
+          <span class="text-sm text-muted dark:text-muted-foreground">{{ templ(`work[${index}].position`) }}</span>
         </div>
-        <div>
-          <span>{{ new Date(work.startDate).getFullYear() }} - {{ work.endDate ? new Date(work.endDate).getFullYear() : templ('current') }}</span>
+        <div class="shrink-0">
+          <span class="text-mono-accent text-sm text-muted dark:text-muted-foreground">{{ new Date(work.startDate).getFullYear() }} - {{ work.endDate ? new Date(work.endDate).getFullYear() : templ('current') }}</span>
         </div>
       </header>
 
-      <ParagraphComponent >
-          <div v-html="templ(`work[${index}].summary`) "></div>
+      <ParagraphComponent>
+        <div v-html="templ(`work[${index}].summary`)"></div>
       </ParagraphComponent>
     </div>
   </Layout>

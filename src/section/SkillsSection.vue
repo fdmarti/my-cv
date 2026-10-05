@@ -1,9 +1,13 @@
 <template>
   <Layout :title="templ('skillsTitle')">
-    <div class="flex flex-wrap gap-4 pt-2">
-      <div v-for="skill in skills" :key="skill.name" class="flex items-center gap-1 bg-slate-100 border-[1px] border-slate-300 rounded-lg p-1 hover:opacity-60">
+    <div class="flex flex-wrap gap-3 pt-1">
+      <div
+        v-for="skill in skills"
+        :key="skill.name"
+        class="flex items-center gap-1.5 rounded-xl border border-border-subtle bg-surface-elevated px-2 py-1.5 transition-opacity hover:opacity-80 dark:border-zinc-700 dark:bg-zinc-800"
+      >
         <component :is="icons[skill.name]"></component>
-        <span class="font-semibold">{{ skill.name }}</span>
+        <span class="text-mono-accent font-semibold text-zinc-800 dark:text-zinc-200">{{ skill.name }}</span>
       </div>
     </div>
   </Layout>

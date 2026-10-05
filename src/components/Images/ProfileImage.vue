@@ -1,6 +1,6 @@
 <template>
-  <div class="relative flex shrink-0 overflow-hidden shadow rounded-xl size-40 profile-image">
-    <img class="aspect-square h-full w-full" :src="image" :alt="`${name}`" />
+  <div class="profile-image relative flex size-40 shrink-0 overflow-hidden rounded-xl shadow-md ring-2 ring-zinc-200 dark:ring-zinc-600">
+    <img class="aspect-square h-full w-full object-cover" :src="image" :alt="`${name}`" />
   </div>
 </template>
 

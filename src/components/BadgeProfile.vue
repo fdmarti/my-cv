@@ -1,5 +1,10 @@
 <template>
-  <a :href="profile.url" :aria-label="`redirect to my ${profile.username} webpage`" target="_blank" class="bg-gray-300 p-1 shadow border-2 border-gray-400 rounded-lg text-gray-700 hover:scale-105 hover:opacity-80 transition-all duration-300 ease-in-out">
+  <a
+    :href="profile.url"
+    :aria-label="`redirect to my ${profile.username} webpage`"
+    target="_blank"
+    class="inline-flex rounded-xl border border-border-subtle bg-surface-elevated p-2 text-zinc-700 transition-colors hover:bg-zinc-200/80 hover:ring-1 hover:ring-zinc-300/80 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-500/50 dark:border-zinc-700 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700/80 dark:hover:ring-zinc-600"
+  >
     <component :is="getComponent"></component>
   </a>
 </template>

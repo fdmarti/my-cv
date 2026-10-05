@@ -1,5 +1,5 @@
 <template>
-  <Layout :title="templ('basics.summaryTitle')">
+  <Layout :title="templ('basics.summaryTitle')" :with-divider="false">
 
     <ParagraphComponent>
     {{ templ('basics.summary')  }}

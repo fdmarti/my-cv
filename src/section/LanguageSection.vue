@@ -1,11 +1,11 @@
 <template>
   <Layout :title="templ('languageTitle')">
-    <div v-for="(_, index) in languages" :key="templ(`languages[${index}].language`)" class="pb-2 w-full dark:text-sky-50">
-      <div class="flex justify-start items-center mb-1">
-        <h3 class="font-semibold text-lg min-w-[100px]">
+    <div v-for="(_, index) in languages" :key="templ(`languages[${index}].language`)" class="pb-4 last:pb-0">
+      <div class="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+        <h3 class="min-w-[6rem] text-base font-medium text-zinc-900 dark:text-zinc-50">
           {{ templ(`languages[${index}].language`) }}
         </h3>
-        <span>{{ templ(`languages[${index}].fluency`) }}</span>
+        <span class="text-sm text-muted dark:text-muted-foreground">{{ templ(`languages[${index}].fluency`) }}</span>
       </div>
     </div>
   </Layout>
